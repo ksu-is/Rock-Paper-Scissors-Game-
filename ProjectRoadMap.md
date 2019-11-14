@@ -5,9 +5,9 @@
 5: - [ ]Make number list of each task and assign to team members. **Azeneth Mendoza**
 6: - [ ]Create 1st coding part for the game **Matthew Mills**  
 7: - [ ]Create 2nd coding part for the game **Azeneth Mendoza** 
-7: - [ ]Test code **Matthew Mills** 
-8: - [ ]Fix any Errors **Matthew Mills** 
-9: - [ ]Make sure it runs well on IDLE **Azeneth Mendoza** 
-10: - [ ]Final testing **Matthew Mills** 
-11: - [ ]Create powerpoint **Matthew Mills** 
-12: - [ ]Submit Project on D2L **Azeneth Mendoza** 
+8: - [ ]Test code **Matthew Mills** 
+9: - [ ]Fix any Errors **Matthew Mills** 
+10: - [ ]Make sure it runs well on IDLE **Azeneth Mendoza** 
+11: - [ ]Final testing **Matthew Mills** 
+12: - [ ]Create powerpoint **Matthew Mills** 
+13: - [ ]Submit Project on D2L **Azeneth Mendoza** 
