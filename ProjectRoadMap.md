@@ -9,5 +9,5 @@
 9: - [ ]Fix any Errors **Matthew Mills** 
 10: - [ ]Make sure it runs well on IDLE **Azeneth Mendoza** 
 11: - [ ]Final testing **Matthew Mills** 
-12: - [ ]Create powerpoint **Matthew Mills** 
-13: - [ ]Submit Project on D2L **Azeneth Mendoza** 
+12:- [ ]Create powerpoint **Matthew Mills** 
+- [ ]Submit Project on D2L **Azeneth Mendoza** 
