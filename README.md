@@ -1,5 +1,7 @@
 # Rock-Paper-Scissors-Game-
-We are creating a Rock, paper, and scissors app game. The related code we will be using to help us creat this will be on the linked below. 
+Rock Paper Scissors is a game made for two player, in which the player has to make a shape with their hands that symbols a rock, paper, or scissors. 
+We are creating a Rock, paper, and scissors app game, that can be used just for someones entertainment or to make a decision between two people or more.  
 
-    
+
+The related code we will be using to help us creat this will be on the linked below.     
 https://github.com/prof-rossetti/rock-paper-scissors-py
