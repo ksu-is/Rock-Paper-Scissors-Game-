@@ -9,5 +9,5 @@
 - [ ] Fix any Errors **Matthew Mills** 
 - [ ] Make sure it runs well on IDLE **Azeneth Mendoza** 
 - [ ] Final testing **Matthew Mills** 
-- [ ] Create powerpoint **Matthew Mills** 
+- [x] Create powerpoint **Matthew Mills** 
 - [ ] Submit Project on D2L **Azeneth Mendoza** 
